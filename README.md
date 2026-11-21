@@ -3,8 +3,8 @@
 Repository ini berisi tugas mata kuliah **Internet of Things (IoT)** mengenai penggunaan web simulasi IoT berbasis 3D **Learn ESP32** (`https://learn-esp32.vercel.app`).
 
 ## Identitas
-- **Nama:** [Isi Nama Lengkap Kamu]
-- **NIM:** [Isi NIM Kamu]
+- **Nama:** Amelia Cahaya Putri
+- **NIM:** 241000457401001
 - **Mata Kuliah:** Internet of Things (IoT)
 - **Dosen Pengampu:** Yendi Putra, S.Kom., M.Kom., MTA
 
